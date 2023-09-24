@@ -1,0 +1,92 @@
+2023-07-26 19:00:01,047 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-07-26 20:48:50,406 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-07-26 20:48:50,407 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2023-07-26 20:48:52,905 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-07-26 20:51:13,702 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-07-26 20:51:13,703 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2023-07-26 20:51:16,098 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-07-26 21:14:42,667 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-07-26 21:14:42,669 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2023-07-26 21:16:55,643 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-07-26 21:16:55,644 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2023-07-26 21:43:30,138 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-07-26 21:43:30,139 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2023-07-26 21:59:19,711 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-07-26 21:59:19,712 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2023-07-27 09:17:27,147 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-07-27 09:17:27,149 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2023-07-27 09:17:30,395 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-01 19:33:20,673 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-08-01 19:33:20,674 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2023-08-01 20:08:17,410 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-08-01 20:08:17,412 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2023-08-01 20:08:21,020 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-01 23:38:44,782 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-08-01 23:38:44,783 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2023-08-01 23:38:48,059 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 00:00:00,233 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-08-02 00:00:00,234 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2023-08-02 00:00:02,754 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 10:03:57,813 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 10:39:12,615 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 10:42:36,396 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 10:49:51,262 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 10:58:26,542 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 11:32:14,435 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-08-02 11:32:14,437 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2023-08-02 11:32:16,860 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 11:36:42,467 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 11:51:42,061 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 12:24:37,874 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-08-02 12:24:37,875 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2023-08-02 12:41:02,026 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 12:53:31,004 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 13:09:51,934 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-08-02 13:09:51,935 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2023-08-02 13:09:54,282 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 13:10:36,377 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 14:30:09,130 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 14:55:57,267 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 15:01:14,535 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 15:03:38,490 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 15:24:17,786 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 15:24:38,094 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-08-02 15:24:38,095 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2023-08-02 15:24:40,464 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 15:26:24,212 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 15:29:31,365 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 15:31:03,298 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 15:36:12,053 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 15:39:14,441 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-02 19:28:23,670 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-08-02 19:28:23,671 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2023-08-02 19:28:26,939 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-03 09:33:11,338 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-03 09:35:17,812 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-08-03 09:35:17,813 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2023-08-03 09:35:20,739 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-03 20:16:22,794 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-04 09:01:12,221 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-08-04 09:01:12,223 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2023-08-04 09:01:14,894 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-04 14:11:14,784 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-05 11:54:18,186 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-05 12:09:39,262 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-05 12:33:05,603 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-05 12:45:33,536 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-05 13:27:00,111 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-05 13:50:38,556 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-05 13:57:42,176 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-05 14:34:04,558 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-05 14:35:55,543 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-05 17:34:00,693 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-05 17:38:52,882 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-05 20:47:33,998 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-05 20:59:19,359 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-06 09:58:34,507 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-06 16:07:37,609 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-06 17:43:19,722 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-07 21:13:11,182 - hyperspy.extensions - INFO - Enabling extension kikuchipy
+2023-08-07 21:51:51,449 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-08-07 21:51:51,450 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2023-08-07 21:51:53,688 - hyperspy.extensions - INFO - Enabling extension kikuchipy
