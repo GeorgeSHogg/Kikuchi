@@ -5,7 +5,7 @@ A project to investigate the use of Convolutional Neural Networks for identifyin
 ## Investigation with Nickel
 
 Using simulated 60x60 grayscale images of nickel kikuchi patterns, CNNs were able to identify individual grains within the specimens. The CNN model was trained and validated to index the nickel samples with a misorientation accuracy of about 0.6 degrees on real world data.
-
+![alt text]([https://github.com/GeorgeSHogg/Kikuchi/blob/main/Ni%20map.png])
 ## Investigation with Steel
 
 Similarly, the investigation was extended to steel specimens using 144x144 images. The computer vision model successfully differentiated between austenite and ferrite phases and indexed them with a misorientation accuracy of about 0.3 degrees. The clear distinction between these phases and the accurate indexing demonstrates the model's potential in materials science applications.
